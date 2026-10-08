@@ -2,72 +2,62 @@
 
 **BACKEND DEVELOPMENT**
 
-`Python` · `SQL` · `Relational Databases`  
+`Python` · `SQL` · `Object-Oriented Programming` · `Relational Databases`
+
 São Paulo, Brazil
 
 ---
 
 ## About
 
-Backend development focused on **Python, SQL, and relational databases**.
+I'm a Systems Analysis and Development student focused on building a career in **Backend Development with Python**.
 
-I build projects to strengthen software architecture, data modeling, business logic, and code organization — moving from isolated exercises toward complete, structured applications.
+My learning process combines technical study with practical projects, emphasizing domain modeling, business rules, data integrity, and code organization.
 
-Currently pursuing a degree in **Systems Analysis and Development** and building a portfolio centered on backend development.
-
----
-
-## Selected Projects
-
-### GymControl
-
-Gym management system built with **Python**, designed to handle students, training plans, evaluations, employees, and administrative operations.
-
-**Highlights**
-
-- Modular application architecture
-- Object-oriented programming
-- JSON-based data persistence
-- Data validation and business rules
-- Student and training management
-- Progressive development toward a complete management system
-
-`Python` `OOP` `JSON` `Modular Architecture`
+I'm currently developing an order and inventory management system, progressing from object-oriented domain modeling toward database persistence, automated testing, and REST APIs.
 
 ---
 
-### SQL Projects
+## Featured Project
 
-Collection of relational database projects focused on designing systems from the database layer up.
+### [Order & Inventory Management System](https://github.com/raffindev/order-inventory)
 
-Projects explore:
+A Python backend project designed around realistic business processes involving purchasing, orders, inventory, payments, and stock traceability.
 
-- Database modeling
-- Primary and foreign keys
-- Table relationships
-- Data integrity
-- JOIN operations
-- Aggregations and analytical queries
-- Real-world business scenarios
+**Current stage: Phase 2 — Domain Integration**
 
-Current work includes systems for **library management** and **logistics & supply chain**.
+The initial domain structure is complete, and development is focused on connecting entities through business operations.
+
+**Currently implemented:**
+
+- Supplier product offers and purchase price management
+- Purchase order creation and item aggregation
+- Business rule validation for supplier offers
+- Dynamic purchase order total calculation
+- Purchase price synchronization during confirmation
+- Purchase order status transitions and operation restrictions
+
+**Development roadmap:** PostgreSQL integration, automated testing, REST APIs, and FastAPI.
+
+`Python` `OOP` `Domain Modeling` `Business Rules` `Git`
+
+[View Repository](https://github.com/raffindev/order-inventory)
+
+---
+
+## Other Projects
+
+### [SQL Projects](https://github.com/raffindev/sql-projects)
+
+A collection of relational database projects exploring data modeling, relationships, integrity constraints, and SQL queries.
+
+Includes practical scenarios involving library management and logistics & supply chain.
 
 `SQL` `MySQL` `Database Design` `Relational Modeling`
 
----
+### [Path of the Three](https://github.com/raffindev/path-of-the-three)
 
-### Path of the Three
-
-Turn-based RPG developed in **Python**, built around a modular combat system and character interactions.
-
-The project explores:
-
-- Object-oriented design
-- Modularization
-- Combat rules and calculations
-- Character and enemy systems
-- Dice-based mechanics
-- Game state and business logic
+A turn-based RPG developed in Python, focused on modularization, combat mechanics, character interactions, and object-oriented programming.
 
 `Python` `OOP` `Game Logic` `Modular Design`
 
@@ -75,49 +65,38 @@ The project explores:
 
 ## Tech Stack
 
-### Languages
+**Languages**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white" alt="SQL">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
 
-### Databases
+**Databases**
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Development
+**Development Tools**
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Concepts
+**Core Concepts**
 
-`Object-Oriented Programming`  
-`Relational Database Design`  
-`Data Modeling`  
-`Business Logic`  
-`Data Validation`  
-`JSON Persistence`  
-`Modular Architecture`
+`Object-Oriented Programming` · `Domain Modeling` · `Business Rules` · `Data Validation` · `Relational Database Design` · `Modular Architecture`
 
 ---
 
 ## Current Focus
 
-```text
-Backend Development
-├── Python
-│   ├── Object-Oriented Programming
-│   ├── Application Architecture
-│   ├── Data Validation
-│   └── File & Data Management
-│
-└── Databases
-    ├── SQL
-    ├── Relational Modeling
-    ├── MySQL
-    └── PostgreSQL
-```
+- Strengthening Python and object-oriented programming
+- Implementing business rules and domain interactions
+- Improving SQL and relational database design
+- Developing code reading, debugging, and testing skills
+- Preparing for PostgreSQL, HTTP, REST APIs, and FastAPI
+
+---
 
 ## Connect
 
-Open to connecting with developers and following projects around **Python, backend development, SQL, and databases**.
+I'm interested in connecting with developers and professionals working with Python, backend systems, and databases.
 
-**GitHub:** @raffindev
+**GitHub:** [@raffindev](https://github.com/raffindev)
