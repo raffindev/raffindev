@@ -85,6 +85,8 @@ My current focus is strengthening Python and SQL fundamentals while expanding Fu
 
 ## Connect
 
-I'm interested in connecting with developers and professionals working with Python, backend systems, databases, and financial technology.
+I'm interested in connecting with developers, recruiters, and professionals working with Python, backend systems, databases, and financial technology.
 
-**GitHub:** [@raffindev](https://github.com/raffindev)
+**LinkedIn:** [Rafael Souza](https://www.linkedin.com/in/rsouzadev/)
+
+**Email:** arch.rsouza@gmail.com
